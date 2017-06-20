@@ -1,5 +1,5 @@
 # 2017_eLife
-This is the analysis code from de Gee JW, Colizoli O, Kloosterman NA, Knapen T, Nieuwenhuis S &amp; Donner TH. 2017. Dynamic modulation of decision biases by brainstem arousal systems. eLife.
+This is the analysis code from de Gee JW, Colizoli O, Kloosterman NA, Knapen T, Nieuwenhuis S &amp; Donner TH. 2017. Dynamic modulation of decision biases by brainstem arousal systems. eLife. Available at: https://elifesciences.org/articles/23232
 
 I will soon update the pupil and fMRI preprocessing part using a more modern pipeline. 
 
